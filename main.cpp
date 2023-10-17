@@ -16,7 +16,7 @@ int main()
     
     cout << "Adios mundo" << endl;
     
-    SetConsoleTextAttribute(hConsole, 0);
+    SetConsoleTextAttribute(hConsole, 7);
     
     return 0;
 }
